@@ -17,4 +17,3 @@ Computer-Vision/
 │   └── requirements.txt
 │
 └── README.md
-

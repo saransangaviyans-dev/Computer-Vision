@@ -1,0 +1,7 @@
+
+---
+
+## 📄 requirements.txt
+
+opencv-python
+facial-emotion-recognition

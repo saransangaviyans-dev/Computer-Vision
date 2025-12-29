@@ -18,7 +18,7 @@ Computer-Vision/
 │   ├── README.md
 │   └── requirements.txt
 │
-├── FaceRecognition/          ← ✅ ADD THIS
+├── FaceRecognition/        
 │   ├── dataset_capture.py
 │   ├── face_recognition.py
 │   ├── haarcascade_frontalface_default.xml

@@ -1,0 +1,10 @@
+# Requirements
+
+# Software
+- Python 3.8+
+- OpenCV
+- NumPy
+- imutils
+
+# Hardware
+- Webcam (built-in or external)

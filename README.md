@@ -1,8 +1,7 @@
 ```
-
 Computer-Vision/
 │
-└── Colored-Object-Detection
+├── Colored-Object-Detection/
 │   ├── hsv.py
 │   ├── ColoredObjectDetection.py
 │   ├── README.md
@@ -19,13 +18,20 @@ Computer-Vision/
 │   ├── README.md
 │   └── requirements.txt
 │
+├── FaceRecognition/        
+│   ├── dataset_capture.py
+│   ├── face_recognition.py
+│   ├── haarcascade_frontalface_default.xml
+│   ├── requirements.txt
+│   └── README.md
+│
 ├── ObjectDetection/
 │   ├── objectDetection.py
 │   ├── README.md
 │   └── requirements.txt
 │
-│
 └── README.md
+
 
 
 ```
